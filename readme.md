@@ -1,7 +1,7 @@
-Readme for Show Stopper
+Readme for MicroDownloadAssistanceTool
 =======================
 
-guidelines
+The Rundown
 ----------
 Currently the idea is to have a database that stores what has been added to `plex/collection`, we may want to automate this and make it a manuel entry system.
 
